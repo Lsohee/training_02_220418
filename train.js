@@ -14,3 +14,5 @@ let play = 80000;
 let nextMonth = house + firstMonth + food + shopping + basic + coffee + heathy + bus + hairCut + play;
 
 console.log(nextMonth);
+
+
